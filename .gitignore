@@ -75,3 +75,5 @@ _[Ss]cripts
 *.dot[Cc]over
 
 .vs/
+/MvcLearning/node_modules
+/MvcLearning/node_modules/.bin
